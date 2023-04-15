@@ -10739,7 +10739,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-skills-cat {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: #434E5E;
 }
 
@@ -10755,6 +10755,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-degree {
   color: #434E5E;
+  font-weight: 500;
 }
 
 .resume-degree-org {
@@ -10773,7 +10774,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-award-name {
-  font-weight: bold;
+  font-weight: 500;
   color: #434E5E;
 }
 
